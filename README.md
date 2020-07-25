@@ -1,4 +1,4 @@
 # toDoList
-It's served up on ->
--Used mongodb atlas for DB
+-It's served up on ->
 http://todolistbasil.herokuapp.com/
+-Used mongodb atlas for DB
